@@ -1,0 +1,17 @@
+__pycache__
+.vscode
+.idea
+Che_Kabar_Project_Analysis_,_Market.pdf
+venv
+database/
+myproject.ini
+lib/
+local/
+send_to_channel_msg.json
+include/
+bin/
+src/myprojectenv/
+src/__pycache__/
+src/request.json
+src/send_to_channel_msg.json
+
